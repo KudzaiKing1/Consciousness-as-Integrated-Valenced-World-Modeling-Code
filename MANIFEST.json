@@ -1,0 +1,61 @@
+{
+  "manuscript": "NEWIDEAS-D-25-00768",
+  "title": "Consciousness as Integrated, Valenced World-Modeling: A Non-Anthropocentric Framework for Functional Consciousness Capacity",
+  "merkle_algorithm": "SHA-256 binary Merkle; leaves=SHA-256(file content) ordered by sorted POSIX relpath; parent=SHA-256(left||right); odd node duplicated",
+  "merkle_root": "d5640603348599a5c271fc4e8b9bc6ae370786386dbb8a4ad263c1ab03fd09fe",
+  "file_count": 9,
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "bytes": 1208,
+      "sha256": "3ede4544a4e7a52a11b7e7430673b8d4b4699b6d361a8c18608fcab097022387"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1096,
+      "sha256": "a93b5781cfab3d3821fd351892754958cec45a78b94eda3fd35e2cc237cca136"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9270,
+      "sha256": "7314b477c67ad177886eec561cc37ffa59afcdd3b5bb1f2241c59e76a08986a5"
+    },
+    {
+      "path": "data/provenance.json",
+      "bytes": 19798,
+      "sha256": "0916a26f7072d24d33ad76ee1a2b56aa8131a9fce5ce2ca06766ab41aa70536f"
+    },
+    {
+      "path": "make_data.py",
+      "bytes": 17844,
+      "sha256": "ffea30f7667f24bf2dbe1d8184c1d96208be4a81fdf662e1aea0bf15aad4f20b"
+    },
+    {
+      "path": "outputs/verification_report.txt",
+      "bytes": 7977,
+      "sha256": "5b5ee71df1d564c5ce23b194e455d3536ef731477d377f4720de0cd380067fa6"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 153,
+      "sha256": "07fc9b375d634d580b757d8d4e92a73de46231cd710d0ad1589e7fb8d98475ea"
+    },
+    {
+      "path": "seal.py",
+      "bytes": 9866,
+      "sha256": "818d2360de4eff6e5956e30e0622f6a2de75d6cefc3168d19f45bad6d8cf8e9c"
+    },
+    {
+      "path": "verify_cs.py",
+      "bytes": 17906,
+      "sha256": "9a5cdf11cf0ee9bab64103d207bcee561f610a758b017c26220c39a019aa7209"
+    }
+  ],
+  "verification": {
+    "all_table1_capacities_reproduced": true,
+    "figure1_formula_coordinates_reproduced": true,
+    "figure2_coordinates_reproduced": true,
+    "A1_raven_anchor": 0.73242,
+    "report": "outputs/verification_report.txt"
+  }
+}

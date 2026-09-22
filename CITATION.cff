@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the associated article and this repository."
+title: "Consciousness Capacity Verification (NEWIDEAS-D-25-00768)"
+abstract: "Dependency-free verification code that recomputes the functional consciousness capacity values C(S) from the paper's own equations (A.1, E.4, E.5, E.7, D.1, D.3), documents the provenance of every input, and seals the package with a SHA-256 Merkle tree."
+type: software
+authors:
+  - family-names: "Chakaingesu"
+    given-names: "Kudzai"
+    affiliation: "AEONICAL LAB, New York, USA"
+version: "1.0.0"
+date-released: "2026-06-08"
+license: MIT
+repository-code: "https://github.com/KudzaiKing1/Consciousness-as-Integrated-Valenced-World-Modeling-Code-"
+keywords:
+  - consciousness
+  - functional consciousness capacity
+  - reproducibility
+  - verification
+references:
+  - type: article
+    title: "Consciousness as Integrated, Valenced World-Modeling: A Non-Anthropocentric Framework for Functional Consciousness Capacity"
+    authors:
+      - family-names: "Chakaingesu"
+        given-names: "Kudzai"
+    journal: "New Ideas in Psychology"
+    year: 2026
+    notes: "Manuscript NEWIDEAS-D-25-00768 (under review)."

@@ -1,0 +1,75 @@
+{
+  "merkle_root": "d5640603348599a5c271fc4e8b9bc6ae370786386dbb8a4ad263c1ab03fd09fe",
+  "algorithm": "SHA-256 binary Merkle; leaves=SHA-256(file content) ordered by sorted POSIX relpath; parent=SHA-256(left||right); odd node duplicated",
+  "leaf_count": 9,
+  "levels": [
+    [
+      "3ede4544a4e7a52a11b7e7430673b8d4b4699b6d361a8c18608fcab097022387",
+      "a93b5781cfab3d3821fd351892754958cec45a78b94eda3fd35e2cc237cca136",
+      "7314b477c67ad177886eec561cc37ffa59afcdd3b5bb1f2241c59e76a08986a5",
+      "0916a26f7072d24d33ad76ee1a2b56aa8131a9fce5ce2ca06766ab41aa70536f",
+      "ffea30f7667f24bf2dbe1d8184c1d96208be4a81fdf662e1aea0bf15aad4f20b",
+      "5b5ee71df1d564c5ce23b194e455d3536ef731477d377f4720de0cd380067fa6",
+      "07fc9b375d634d580b757d8d4e92a73de46231cd710d0ad1589e7fb8d98475ea",
+      "818d2360de4eff6e5956e30e0622f6a2de75d6cefc3168d19f45bad6d8cf8e9c",
+      "9a5cdf11cf0ee9bab64103d207bcee561f610a758b017c26220c39a019aa7209"
+    ],
+    [
+      "20991257a2f424eeb4779eaf476c4834d8f5236d4733322c2d1224173e3c8b1a",
+      "f97b0cc4c60eebe3969c5127530153ea9bc64fb308b22f386fd3fc880f5c7623",
+      "66d4b6427b615223eb542e69ebe9386f84aaa088c22cb899e46e75e3559080c1",
+      "b90623ac86820660ec320b2d37a3f18a0219bed4ec4a23727ff201be4159ed06",
+      "9462fcce9a3cd0e73319442953f236332f0dc6c3d4521646daf7ef7de5195637"
+    ],
+    [
+      "446d95dc2b2024fd6fa8efe72080b7d2179898f28c84738a9bb77fd96bff2c38",
+      "9913c19b15e98a052fe890cf5e60a9e5c6601891466a11f73dc6be00c3af0b32",
+      "c569ad6f010bfb9073f1ceeeffdafb6fc4057a9f70921779582de486a8ec8d98"
+    ],
+    [
+      "52ae429a473ecadf49bd649e129dbf2191251229ae032ca668ee098b1244b1fc",
+      "a67ddecaf4d1ab5afc9f9e24d44288fc91e34e5515367a531ac81c8b462cec9c"
+    ],
+    [
+      "d5640603348599a5c271fc4e8b9bc6ae370786386dbb8a4ad263c1ab03fd09fe"
+    ]
+  ],
+  "ordered_leaves": [
+    {
+      "path": "CITATION.cff",
+      "leaf_sha256": "3ede4544a4e7a52a11b7e7430673b8d4b4699b6d361a8c18608fcab097022387"
+    },
+    {
+      "path": "LICENSE",
+      "leaf_sha256": "a93b5781cfab3d3821fd351892754958cec45a78b94eda3fd35e2cc237cca136"
+    },
+    {
+      "path": "README.md",
+      "leaf_sha256": "7314b477c67ad177886eec561cc37ffa59afcdd3b5bb1f2241c59e76a08986a5"
+    },
+    {
+      "path": "data/provenance.json",
+      "leaf_sha256": "0916a26f7072d24d33ad76ee1a2b56aa8131a9fce5ce2ca06766ab41aa70536f"
+    },
+    {
+      "path": "make_data.py",
+      "leaf_sha256": "ffea30f7667f24bf2dbe1d8184c1d96208be4a81fdf662e1aea0bf15aad4f20b"
+    },
+    {
+      "path": "outputs/verification_report.txt",
+      "leaf_sha256": "5b5ee71df1d564c5ce23b194e455d3536ef731477d377f4720de0cd380067fa6"
+    },
+    {
+      "path": "requirements.txt",
+      "leaf_sha256": "07fc9b375d634d580b757d8d4e92a73de46231cd710d0ad1589e7fb8d98475ea"
+    },
+    {
+      "path": "seal.py",
+      "leaf_sha256": "818d2360de4eff6e5956e30e0622f6a2de75d6cefc3168d19f45bad6d8cf8e9c"
+    },
+    {
+      "path": "verify_cs.py",
+      "leaf_sha256": "9a5cdf11cf0ee9bab64103d207bcee561f610a758b017c26220c39a019aa7209"
+    }
+  ]
+}
